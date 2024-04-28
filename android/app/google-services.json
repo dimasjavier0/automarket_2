@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592728070584",
+    "project_id": "automarket-a4c48",
+    "storage_bucket": "automarket-a4c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592728070584:android:1444c4d135f21ecd62974d",
+        "android_client_info": {
+          "package_name": "com.automarket.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigCqCUrVxsuhOF8fo5g3pLtcKp8Pt1Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
